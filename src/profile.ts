@@ -29,8 +29,8 @@ export const profile = {
    * how classmates find something to say hello about.
    */
   funFacts: [
-    "I once assembled IKEA furniture without leftover screws.",
-    "I can name every U.S. state capital in under two minutes.",
+    "I once won $1000 from a scratch off ticket.",
+    "My hobbies include playing sports, watching movies, and playing chess.",
   ],
 
   /** One decision you're proud of, in a sentence. */
@@ -58,7 +58,7 @@ export const profile = {
    * A short bio for your home page: two or three sentences, written like
    * a person, not a resume. What are you studying? What do you care about?
    */
-  bio: "I'm a business student at the University of Delaware learning to make good decisions at any scale. This site is my working portfolio: every course challenge deploys here as a live service.",
+  bio: "I'm a business analytics student at the University of Delaware learning to make good decisions at any scale. This site is my working portfolio: every course challenge deploys here as a live service.",
 
   /**
    * Your GitHub repo URL. The course platform reads this from /api/health to
