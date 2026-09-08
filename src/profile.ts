@@ -52,7 +52,7 @@ export const profile = {
   rosterVisibility: "class" as "class" | "professor-only",
 
   /** A one-line tagline for your home page. Make it yours. */
-  tagline: "Building a portfolio of decision services, one lane at a time.",
+  tagline: "It's easy to flip the switch if the lights are on.",
 
   /**
    * A short bio for your home page: two or three sentences, written like
