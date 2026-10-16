@@ -96,7 +96,7 @@ export default async function SimulatorPage() {
           alt="DAG of the investment game: initial wealth and the stake fraction (a decision) feed wealth after each year, which also depends on that year's coin flip."
           className="mt-3 w-full max-w-xl rounded-lg border border-line bg-white p-3"
         />
-        {/* TODO(yours): The stake fraction is the decision, and the coin flip is the random event. */}
+        {/* TODO(yours): The stake fraction is the decision, the coin flip is the random event. */}
       </section>
     </main>
   );
